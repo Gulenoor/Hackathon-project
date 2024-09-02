@@ -29,7 +29,7 @@ Our mission is to develop and deploy multiple AI agents using Crew AI to create 
 
 - **Frontend Tools**: User input is defined through a sleek and intuitive GUI.
 - **Backend Tools**: 
-  - **Version Control**: Git and VS Code for smooth collaboration.
+  - **Version Control**: Github, Vs code, and Google Colab Notebook for smooth collaboration.
   - **Backend**: Flask to power the engine.
   - **LLMs Configuration**: Configuration of LLMs for effective task handling.
   - **AI Agents**: Crew AI and AutoGen are used to drive the AI-powered functionalities.
@@ -47,9 +47,8 @@ Our mission is to develop and deploy multiple AI agents using Crew AI to create 
 ### Back-End Tools and Frameworks:
 
 - **Version Control**: Git and VS Code for smooth collaboration.
-- **Backend**: Flask powers the engine.
 - **LLMs Configuration**: Ensure optimal performance of AI models.
-- **AI Agents**: Crew AI and AutoGen are the main AI drivers.
+- **AI Agents**: Crew AI is the main AI driver.
 
 ### Prototype and Workflow (Blueprint) 🖼️
 
