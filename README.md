@@ -1,6 +1,6 @@
 # 🚀 Email Personalization Outreach Campaign Agent
 
-## Overview 🧩
+## Project Overview 🧩
 
 Our mission is to develop and deploy multiple AI agents using Crew AI to create top-tier email content personalization. This project leverages advanced AI tools and techniques to streamline the process of lead identification, profiling, and personalized email communication, resulting in higher conversion rates and meaningful client relationships.
 
