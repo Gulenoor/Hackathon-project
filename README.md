@@ -38,7 +38,7 @@ Our mission is to develop and deploy multiple AI agents using Crew AI to create 
 
 - **Mustafa Shoukat** - **Team Lead 🏆**: Overseeing the project, user input handling, and AI agent integration.
 - **Amina** - **Frontend Developer 🎨**: Designing frontend and creating the contributor section.
-- **Noor** - **LLM Integration Specialist 🔍**: Identifying and integrating LLMs, preparing video presentations.
+- **Gule Noor** - **LLM Integration Specialist 🔍**: Identifying and integrating LLMs, preparing video presentations.
 - **Muhammad Faisal** - **Presentation Creator 🎤**: Creating slides and presentations.
 - **Aamir Shah** - **Product Tester 🕵️‍♂️**: Conducting end-user testing and gathering insights.
 
@@ -66,4 +66,4 @@ Our mission is to develop and deploy multiple AI agents using Crew AI to create 
 We welcome contributions from the community. Please follow the standard fork-branch-pull request workflow to contribute. Ensure that all changes are well-documented and tested.
 
 
-Mustafa Shoukat 🏆 led the development and integration. Amina 🎨 focused on frontend design, Noor 🔍 managed LLM identification and integration, Faisal 🎤 developed presentations, and Aamir 🕵️‍♂️ conducted end-user testing. The team's coordinated efforts ensured the project's success. 🚀
+Mustafa Shoukat 🏆 led the development and integration. Amina 🎨 focused on frontend design, Gule Noor 🔍 managed LLM identification and integration, Faisal 🎤 developed presentations, and Aamir 🕵️‍♂️ conducted end-user testing. The team's coordinated efforts ensured the project's success. 🚀
